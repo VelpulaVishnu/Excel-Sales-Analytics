@@ -16,7 +16,7 @@ Each report in this repository serves a unique purpose in analyzing business per
    - **Purpose**: Compares actual market performance against set targets for different regions.
    - **Importance**: Assists in assessing the effectiveness of market strategies and identifying regions where performance gaps exist.
 
-#### 3. 📈 Profit & Loss Statement by Fiscal Year (`P&L Statement by Fiscal Year.pdf`)
+#### 3. 📈 Profit & Loss Statement by Fiscal Year ([`P&L Statement by Fiscal Year.pdf`](https://github.com/VelpulaVishnu/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf))
    - **Purpose**: Summarizes revenue, cost of goods sold (COGS), and gross margins for different fiscal years.
    - **Importance**: Provides an overall view of the company’s financial health and profitability trends.
 
