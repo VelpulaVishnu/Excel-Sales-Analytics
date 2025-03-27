@@ -12,7 +12,7 @@ Each report in this repository serves a unique purpose in analyzing business per
    - **Purpose**: Provides an analysis of net sales performance for various customers over multiple years.
    - **Importance**: Helps understand which customers contribute the most to revenue growth and identifies high-potential customers for future business strategies.
 
-#### 2. 🌍 Market Performance vs Target Report (`Market Performance vs Target Report.pdf`)
+#### 2. 🌍 Market Performance vs Target Report (`[Market Performance vs Target Report.pdf](https://github.com/VelpulaVishnu/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)`)
    - **Purpose**: Compares actual market performance against set targets for different regions.
    - **Importance**: Assists in assessing the effectiveness of market strategies and identifying regions where performance gaps exist.
 
