@@ -24,7 +24,7 @@ Each report in this repository serves a unique purpose in analyzing business per
    - **Purpose**: Analyzes financial performance (Net Sales, COGS, Gross Margin) across different markets.
    - **Importance**: Useful for identifying high-profit and underperforming markets to optimize business strategies.
 
-#### 5. 📅 Profit & Loss Statement by Months (`P&L Statement by Months.pdf`)
+#### 5. 📅 Profit & Loss Statement by Months ([`P&L Statement by Months.pdf`](https://github.com/VelpulaVishnu/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf))
    - **Purpose**: Breaks down financial performance by month and quarter for trend analysis.
    - **Importance**: Helps in identifying seasonal trends and making informed business decisions based on monthly revenue and cost fluctuations.
 
