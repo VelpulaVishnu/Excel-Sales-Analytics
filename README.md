@@ -8,7 +8,7 @@ Welcome to the Atliq Hardwares data repository. This repository contains key fin
 
 Each report in this repository serves a unique purpose in analyzing business performance. Below is a summary of each file:
 
-#### 1. 📊 Customer Performance Report (`Customer Performance Report.pdf`)
+#### 1. 📊 Customer Performance Report ([`Customer Performance Report.pdf`](https://github.com/VelpulaVishnu/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf))
    - **Purpose**: Provides an analysis of net sales performance for various customers over multiple years.
    - **Importance**: Helps understand which customers contribute the most to revenue growth and identifies high-potential customers for future business strategies.
 
