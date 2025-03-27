@@ -20,7 +20,7 @@ Each report in this repository serves a unique purpose in analyzing business per
    - **Purpose**: Summarizes revenue, cost of goods sold (COGS), and gross margins for different fiscal years.
    - **Importance**: Provides an overall view of the company’s financial health and profitability trends.
 
-#### 4. 🌎 Profit & Loss Statement by Markets (`P&L Statement by Markets.pdf`)
+#### 4. 🌎 Profit & Loss Statement by Markets ([`P&L Statement by Markets.pdf`](https://github.com/VelpulaVishnu/Excel-Sales-Analytics/edit/main/P%26L%20Statement%20by%20Markets.pdf))
    - **Purpose**: Analyzes financial performance (Net Sales, COGS, Gross Margin) across different markets.
    - **Importance**: Useful for identifying high-profit and underperforming markets to optimize business strategies.
 
